@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Inicio | Construcciones Leguizamón</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="logo">Construcciones <strong>Leguizamón</strong></div>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Inicio</a></li>
+        <li><a href="nosotros.html">Nosotros</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="proyectos.html">Proyectos</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <h1>Construimos confianza, calidad y futuro</h1>
+    <p>Obras llave en mano, remodelaciones y más</p>
+    <a href="contacto.html" class="btn">Solicitá tu presupuesto</a>
+  </section>
+
+  <!-- DESTACADOS -->
+  <section class="destacados">
+    <h2>¿Por qué elegirnos?</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>+10 años de experiencia</h3>
+        <p>Una trayectoria sólida en obras civiles y remodelaciones.</p>
+      </div>
+      <div class="card">
+        <h3>Compromiso total</h3>
+        <p>Obras entregadas en tiempo y forma con máxima calidad.</p>
+      </div>
+      <div class="card">
+        <h3>Presupuesto transparente</h3>
+        <p>Precios claros, sin sorpresas, adaptados a tus necesidades.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Construcciones Leguizamón. Todos los derechos reservados.</p>
+  </footer>
+
+  <!-- WHATSAPP -->
+  <a class="whatsapp" href="https://wa.me/541140730995" target="_blank">💬</a>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nosotros | Construcciones Leguizamón</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="logo">Construcciones <strong>Leguizamón</strong></div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="nosotros.html" class="active">Nosotros</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="proyectos.html">Proyectos</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- NOSOTROS -->
+  <section class="contenido">
+    <h1>Sobre nosotros</h1>
+    <p>En <strong>Construcciones Leguizamón</strong> contamos con más de 10 años de experiencia brindando soluciones constructivas a medida en Buenos Aires. Nos especializamos en obras civiles, viviendas, reformas y proyectos llave en mano.</p>
+
+    <p>Creemos en la construcción como una forma de transformar ideas en espacios reales, funcionales y duraderos. Trabajamos con compromiso, materiales de alta calidad y un equipo técnico que cuida cada detalle.</p>
+
+    <h2>Nuestra misión</h2>
+    <p>Brindar un servicio de construcción profesional, transparente y eficiente, adaptado a las necesidades de cada cliente.</p>
+
+    <h2>Nuestros valores</h2>
+    <ul>
+      <li>✅ Compromiso con los plazos</li>
+      <li>✅ Calidad en cada etapa</li>
+      <li>✅ Atención personalizada</li>
+      <li>✅ Responsabilidad y seriedad</li>
+    </ul>
+
+    <!-- Espacio para imagen -->
+    <div class="imagen-placeholder">
+      <p>Aquí podés agregar una imagen de equipo, obra o logo</p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Construcciones Leguizamón. Todos los derechos reservados.</p>
+  </footer>
+
+  <!-- WHATSAPP -->
+  <a class="whatsapp" href="https://wa.me/541140730995" target="_blank">💬</a>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Servicios | Construcciones Leguizamón</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="logo">Construcciones <strong>Leguizamón</strong></div>
+    <nav>
+      <ul>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Proyectos | Construcciones Leguizamón</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="logo">Construcciones <strong>Leguizamón</strong></div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="nosotros.html">Nosotros</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="proyectos.html" class="active">Proyectos</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- PROYECTOS -->
+  <section class="contenido">
+    <h1>Proyectos realizados</h1>
+    <p>Te mostramos algunos de nuestros trabajos más destacados en Buenos Aires y alrededores. Cada proyecto refleja nuestro compromiso con la calidad y la satisfacción del cliente.</p>
+
+    <div class="galeria">
+      <div class="galeria-item">Imagen 1 - Espacio para agregar</div>
+      <div class="galeria-item">Imagen 2 - Espacio para agregar</div>
+      <div class="galeria-item">Imagen 3 - Espacio para agregar</div>
+      <div class="galeria-item">Imagen 4 - Espacio para agregar</div>
+      <div class="galeria-item">Imagen 5 - Espacio para agregar</div>
+      <div class="galeria-item">Imagen 6 - Espacio para agregar</div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Construcciones Leguizamón. Todos los derechos reservados.</p>
+  </footer>
+
+  <!-- WHATSAPP -->
+  <a class="whatsapp" href="https://wa.me/541140730995" target="_blank">💬</a>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contacto | Construcciones Leguizamón</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="logo">Construcciones <strong>Leguizamón</strong></div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="nosotros.html">Nosotros</a></li>
+        <li><a href="servicios.html">Servicios</a></li>
+        <li><a href="proyectos.html">Proyectos</a></li>
+        <li><a href="contacto.html" class="active">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- CONTACTO -->
+  <section class="contenido contacto-section">
+    <h1>Contacto</h1>
+    <p>Querés solicitar un presupuesto, hacer una consulta o simplemente comunicarte con nosotros, podés usar el formulario o contactarnos por WhatsApp o teléfono.</p>
+
+    <div class="contacto-container">
+      <form class="contacto-form" action="mailto:tucorreo@ejemplo.com" method="post" enctype="text/plain">
+        <label for="nombre">Nombre completo</label>
+        <input type="text" id="nombre" name="nombre" required />
+
+        <label for="email">Correo electrónico</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="mensaje">Mensaje</label>
+        <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+
+        <button type="submit">Enviar</button>
+      </form>
+
+      <div class="contacto-info">
+        <h2>Datos de contacto</h2>
+        <p>📍 Buenos Aires, Argentina</p>
+        <p>📞 Teléfono: +54 11 4073 0995</p>
+        <p>💬 WhatsApp: <a href="https://wa.me/541140730995" target="_blank">+54 11 4073 0995</a></p>
+        <h2>Ubicación</h2>
+        <div class="mapa">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13190.89917369186!2d-58.457422728084895!3d-34.6037220468657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccac2de1c6843%3A0x580e1971d5bba2ef!2sBuenos%20Aires%2C%20Argentina!5e0!3m2!1ses-419!2sus!4v1690088939062!5m2!1ses-419!2sus"
+            width="100%"
+            height="250"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Construcciones Leguizamón. Todos los derechos reservados.</p>
+  </footer>
+
+  <!-- WHATSAPP -->
+  <a class="whatsapp" href="https://wa.me/541140730995" target="_blank">💬</a>
+
+</body>
+</html>
+/* --------- RESET Y BASE --------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fff;
+  color: #333;
+  line-height: 1.6;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul {
+  list-style: none;
+}
+
+/* --------- HEADER --------- */
+header {
+  background-color: #000;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+.logo {
+  font-size: 1.5rem;
+  color: #2e7d32;
+  font-weight: bold;
+}
+nav ul {
+  display: flex;
+  gap: 20px;
+}
+nav a {
+  color: white;
+  font-weight: 500;
+  padding: 5px 10px;
+  transition: 0.3s;
+}
+nav a:hover,
+nav a.active {
+  background-color: #2e7d32;
+  border-radius: 5px;
+}
+
+/* --------- HERO --------- */
+.hero {
+  background: url('banner.jpg') no-repeat center center/cover;
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 1px 1px 3px #000;
+  text-align: center;
+  padding: 20px;
+}
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+.hero p {
+  font-size: 1.2rem;
+}
+.btn {
+  background-color: #2e7d32;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  margin-top: 20px;
+  font-weight: bold;
+  display: inline-block;
+  transition: 0.3s;
+}
+.btn:hover {
+  background-color: #256428;
+}
+
+/* --------- DESTACADOS --------- */
+.destacados {
+  padding: 60px 20px;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+.destacados h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+.grid {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  transition: box-shadow 0.3s;
+}
+.card:hover {
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+.card h3 {
+  color: #2e7d32;
+  margin-bottom: 10px;
+}
+
+/* --------- CONTENIDO GENERAL --------- */
+.contenido {
+  max-width: 1000px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+.contenido h1, .contenido h2 {
+  color: #2e7d32;
+  margin-bottom: 20px;
+}
+.contenido p {
+  margin-bottom: 20px;
+}
+.contenido ul {
+  margin-bottom: 30px;
+  padding-left: 20px;
+}
+.contenido li {
+  margin-bottom: 10px;
+}
+
+/* --------- PLACEHOLDER PARA IMÁGENES --------- */
+.imagen-placeholder {
+  background-color: #e0e0e0;
+  height: 250px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #555;
+  font-style: italic;
+  margin-top: 20px;
+}
+
+/* --------- FOOTER --------- */
+footer {
+  background-color: #000;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 60px;
+}
+
+/* --------- BOTÓN WHATSAPP --------- */
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: white;
+  font-size: 24px;
+  padding: 12px 16px;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  z-index: 1000;
+  transition: transform 0.3s;
+}
+.whatsapp:hover {
+  transform: scale(1.1);
+}
+
+/* --------- RESPONSIVE --------- */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+  .grid {
+    flex-direction: column;
+    align-items: center;
+  }
+  nav ul {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+/* --------- GALERÍA DE PROYECTOS --------- */
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 40px;
+}
+.galeria-item {
+  background-color: #e0e0e0;
+  height: 200px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #555;
+  font-style: italic;
+  text-align: center;
+}
+
+/* --------- FORMULARIO DE CONTACTO --------- */
+.contacto-section p {
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+  text-align: center;
+}
+.contacto-container {
+  display: flex;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto 60px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.contacto-form {
+  flex: 1 1 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.contacto-form label {
+  font-weight: 600;
+  color: #2e7d32;
+}
+.contacto-form input,
+.contacto-form textarea {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  resize: vertical;
+}
+.contacto-form button {
+  background-color: #2e7d32;
+  color: white;
+  font-weight: 700;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.contacto-form button:hover {
+  background-color: #256428;
+}
+.contacto-info {
+  flex: 1 1 300px;
+  color: #333;
+}
+.contacto-info h2 {
+  color: #2e7d32;
+  margin-bottom: 20px;
+}
+.contacto-info p {
+  margin-bottom: 15px;
+}
+.mapa {
+  margin-top: 20px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .contacto-container {
+    flex-direction: column;
+  }
+}
